@@ -320,6 +320,7 @@
 
 ## articles
 - [Loading Images With the “Blur Down” Technique](https://joebell.co.uk/blog/loading-images-with-the-blur-down-technique)
+- [Implementing RBAC Authorization in Next.js](https://www.permit.io/blog/how-to-add-rbac-in-nextjs)
 - [Updating Static Next.js Pages Instantly](https://joebell.co.uk/blog/updating-static-next-js-pages-instantly)
 - [Next.js — Make your own Progress bar indicator component easily!!!](https://www.gosink.in/next-js-make-your-own-progress-bar-indicator-component-easily/)
 - [Static Tweets with MDX and Next.js](https://blog.maximeheckel.com/posts/static-tweets-with-mdx-nextjs/)
